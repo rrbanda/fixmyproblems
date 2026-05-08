@@ -1,3 +1,7 @@
+
+
+<img width="630" height="810" alt="image" src="https://github.com/user-attachments/assets/63dcc7da-2092-4357-b671-1bb5b18e2db4" />
+
 ```
 ## Migrating Homebrew from Intel to M1
 
